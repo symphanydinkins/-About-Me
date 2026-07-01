@@ -2,3 +2,12 @@
 ### I am learning how to code using python and CSS, then later on I will see how it connects to my future career (Cloud Security Engineer).
 ### I enjoy composing music, playing electric guitar, playing flute, and playing sports such as volleyball and tennis in my free time.
 ### One fun fact about me is I am determined to learn and pick up on anything.
+
+
+## The Repositories I Found Interesting
+### ⭐️ Music
+I like this repository because music is something I really enjoy.
+### ⭐️ Coding Projects
+I like this repository because I enjoy coding, solving problems in my code, and seeing the outcome. 
+### ⭐️ Games
+I like this repository because I enjoy playing games with friends and family.
